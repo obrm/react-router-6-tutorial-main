@@ -1,5 +1,7 @@
 # React Router 6
 
+## [Live site preview.](https://obrm-reouter-v6-demo.netlify.app)
+
 #### React Course
 
 [Taken from John Smilga's React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
